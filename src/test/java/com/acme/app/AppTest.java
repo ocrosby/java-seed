@@ -1,5 +1,6 @@
 package com.acme.app;
 
+import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
@@ -16,5 +17,13 @@ public class AppTest
     public void shouldAnswerWithTrue()
     {
         assertTrue( true );
+    }
+
+    @Test
+    public void shouldReturnTheExpectedCaption() 
+    {
+        App app = new App();
+
+        assertEquals("Hello World!", app.getCaption());
     }
 }
