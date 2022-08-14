@@ -34,10 +34,13 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Java Seed</h3>
 
   <p align="center">
-    project_description
+    This project is intended as a demo for young developers trying to learn how to structure
+    Java projects for their development courses.  It is intended to eventually turn this
+    into a template they can create their own repos from to start without figuring out all of 
+    the machinery first.
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
@@ -122,14 +125,16 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
+0. [Install the Java SE Development Kit](https://www.oracle.com/java/technologies/downloads/)
+0. [Install Apache Maven](https://maven.apache.org/install.html)
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
    git clone https://github.com/github_username/repo_name.git
    ```
-3. Install NPM packages
+3. Install with Maven
    ```sh
-   npm install
+   mvn -B package --file pom.xml
    ```
 4. Enter your API in `config.js`
    ```js
