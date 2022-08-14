@@ -30,7 +30,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ocrosby/repo_name">
+  <a href="https://github.com/ocrosby/java-seed">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -42,14 +42,14 @@
     into a template they can create their own repos from to start without figuring out all of 
     the machinery first.
     <br />
-    <a href="https://github.com/ocrosby/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ocrosby/java-seed"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ocrosby/repo_name">View Demo</a>
+    <a href="https://github.com/ocrosby/java-seed">View Demo</a>
     ·
-    <a href="https://github.com/ocrosby/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/ocrosby/java-seed/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ocrosby/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/ocrosby/java-seed/issues">Request Feature</a>
   </p>
 </div>
 
@@ -88,7 +88,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `ocrosby`, `repo_name`, `twitter_handle`, `omarcrosby`, `email_client`, `email`, `project_title`, `project_description`
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `ocrosby`, `java-seed`, `twitter_handle`, `omarcrosby`, `email_client`, `email`, `project_title`, `project_description`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -134,7 +134,7 @@ This is an example of how to list things you need to use the software and how to
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/ocrosby/repo_name.git
+   git clone https://github.com/ocrosby/java-seed.git
    ```
 3. Install with Maven
    ```sh
@@ -173,7 +173,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Feature 3
     - [ ] Nested Feature
 
-See the [open issues](https://github.com/ocrosby/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/ocrosby/java-seed/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -211,7 +211,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
-Project Link: [https://github.com/ocrosby/repo_name](https://github.com/ocrosby/repo_name)
+Project Link: [https://github.com/ocrosby/java-seed](https://github.com/ocrosby/java-seed)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -235,16 +235,16 @@ Project Link: [https://github.com/ocrosby/repo_name](https://github.com/ocrosby/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/ocrosby/repo_name.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/ocrosby/java-seed.svg?style=for-the-badge
 [contributors-url]: https://github.com/ocrosby/java-seed/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/ocrosby/java-seed.svg?style=for-the-badge
-[forks-url]: https://github.com/ocrosby/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/ocrosby/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/ocrosby/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ocrosby/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/ocrosby/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/ocrosby/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/ocrosby/repo_name/blob/master/LICENSE.txt
+[forks-url]: https://github.com/ocrosby/java-seed/network/members
+[stars-shield]: https://img.shields.io/github/stars/ocrosby/java-seed.svg?style=for-the-badge
+[stars-url]: https://github.com/ocrosby/java-seed/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ocrosby/java-seed.svg?style=for-the-badge
+[issues-url]: https://github.com/ocrosby/java-seed/issues
+[license-shield]: https://img.shields.io/github/license/ocrosby/java-seed.svg?style=for-the-badge
+[license-url]: https://github.com/ocrosby/java-seed/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/omarcrosby
 [product-screenshot]: images/screenshot.png
