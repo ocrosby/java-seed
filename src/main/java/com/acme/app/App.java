@@ -9,7 +9,7 @@ public class App
     private String caption;
 
     App() {
-        this.setCaption("Hello Bob!");
+        this.setCaption("Hello World!");
     }
 
     App(String caption) {
