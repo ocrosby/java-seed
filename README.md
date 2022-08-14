@@ -8,8 +8,6 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -25,8 +23,6 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -39,7 +35,7 @@
   <p align="center">
     This project is intended as a demo for young developers trying to learn how to structure
     Java projects for their development courses.  It is intended to eventually turn this
-    into a template they can create their own repos from to start without figuring out all of 
+    into a template they can create their own repos from to start without figuring out all of
     the machinery first.
     <br />
     <a href="https://github.com/ocrosby/java-seed"><strong>Explore the docs »</strong></a>
@@ -52,8 +48,6 @@
     <a href="https://github.com/ocrosby/java-seed/issues">Request Feature</a>
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -81,8 +75,6 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -91,8 +83,6 @@
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `ocrosby`, `java-seed`, `twitter_handle`, `omarcrosby`, `email_client`, `email`, `project_title`, `project_description`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ### Built With
 
@@ -107,8 +97,6 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -118,41 +106,42 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
+
 * npm
+
   ```sh
   npm install npm@latest -g
   ```
 
 ### Installation
 
-0. [Install the Java SE Development Kit](https://www.oracle.com/java/technologies/downloads/)
-0. [Install Apache Maven](https://maven.apache.org/install.html)
-0. Setting up your project for maven
+1. [Install the Java SE Development Kit](https://www.oracle.com/java/technologies/downloads/)
+2. [Install Apache Maven](https://maven.apache.org/install.html)
+3. Setting up your project for maven
+
    ```sh
    mvn archetype:generate -DgroupId=com.acme.app -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
    ```
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/ocrosby/java-seed.git
-   ```
-3. Install with Maven
-   ```sh
-   mvn -B package --file pom.xml
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
 
-0. Run the program
-    ```powershell
-    java -cp target/java-seed-1.0-SNAPSHOT.jar com.acme.app.App
-    ```
+4. Clone the repo
+
+```sh
+git clone https://github.com/ocrosby/java-seed.git
+```
+
+5. Install with Maven
+
+```sh
+mvn -B package --file pom.xml
+```
+
+6. Run the program
+
+```sh
+java -cp target/java-seed-1.0-SNAPSHOT.jar com.acme.app.App
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -163,21 +152,17 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+* [ ] Feature 1
+* [ ] Feature 2
+* [ ] Feature 3
+  * [ ] Nested Feature
 
 See the [open issues](https://github.com/ocrosby/java-seed/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -195,16 +180,12 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
 ## Contact
@@ -230,8 +211,6 @@ Project Link: [https://github.com/ocrosby/java-seed](https://github.com/ocrosby/
 * []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -263,5 +242,4 @@ Project Link: [https://github.com/ocrosby/java-seed](https://github.com/ocrosby/
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
-
+[JQuery-url]: https://jquery.com
