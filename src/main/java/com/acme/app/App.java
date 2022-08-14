@@ -6,13 +6,29 @@ package com.acme.app;
  */
 public class App 
 {
+    private String caption;
+
+    App() {
+        this.setCaption("Hello Bob!");
+    }
+
+    App(String caption) {
+        this.setCaption(caption);
+    }
+
     public String getCaption() {
-        return "Hello World!";
+        return this.caption;
+    }
+
+    public void setCaption(String value) {
+        this.caption = value;
     }
 
     public static void main( String[] args )
     {
         App app = new App();
+
+        app.setCaption("Hello Jordyn!");
 
         System.out.println( app.getCaption() );
     }

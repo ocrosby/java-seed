@@ -26,4 +26,12 @@ public class AppTest
 
         assertEquals("Hello World!", app.getCaption());
     }
+
+    @Test
+    public void shouldReturnTheInitializedCaption() 
+    {
+        App app = new App("Hello Jordyn!");
+
+        assertEquals("Hello Jordyn!", app.getCaption());
+    }
 }
