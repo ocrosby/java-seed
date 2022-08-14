@@ -210,7 +210,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 ## References
 
 * [Building and testing Java with Maven](https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-java-with-maven)
-
+* [Introduction to the standard directory layout](https://maven.apache.org/guides/introduction/introduction-to-the-standard-directory-layout.html)
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
